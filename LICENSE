@@ -1,4 +1,6 @@
-Creative Commons Legal Code
+Copyright 2024 James David Clarke <james@novora.ai>
+
+Creative Commons Legal Code + Apache 2.0 Fallback License
 
 CC0 1.0 Universal
 
@@ -312,7 +314,6 @@ FALLBACK LICENSE:
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
