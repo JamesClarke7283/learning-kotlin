@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run To-Do Application",
+            "type": "java",
+            "request": "launch",
+            "mainClass": "todo.TodoAppKt",
+            "preLaunchTask": "Run To-Do Application"
+        },
+        {
+            "name": "Run Calculator Application",
+            "type": "java",
+            "request": "launch",
+            "mainClass": "calculator.CalculatorAppKt",
+            "preLaunchTask": "Run Calculator Application"
+        },
+        {
+            "name": "Run AppX Application",
+            "type": "java",
+            "request": "launch",
+            "mainClass": "appx.AppXKt",
+            "preLaunchTask": "Run AppX Application"
+        }
+    ]
+}
